@@ -1,0 +1,21 @@
+.counter {
+  width: 100px;
+  height: 80px;
+  background-color: #2196f3;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.counter .counter-value {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.counter .counter-button {
+  color: white;
+  font-size: 30px;
+  margin: 5px;
+  cursor: pointer;
+}
